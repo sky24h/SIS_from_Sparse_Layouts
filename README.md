@@ -1,5 +1,4 @@
-# Diffusion-based_Semantic_Image_Synthesis_from_Sparse_Layouts
-
+# Overview
 Code for the paper "Diffusion-based Semantic Image Synthesis from Sparse Layouts" (CGI 2023)
 
 Check out our [project page](https://sky24h.github.io/websites/cgi2023_sis-from-sparse-layouts) for more details.
